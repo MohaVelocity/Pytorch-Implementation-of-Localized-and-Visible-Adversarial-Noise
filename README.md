@@ -40,6 +40,9 @@ Does a single back propagation on an input patch on a given place on a given ima
 **return: a patch tensor of shape `[1,3,patch_size,patch_size]`**
 
 
+
+    
+
 ```apply_evaluate_patch(patch_small,model,img,patch_corner)```
 
 Applies an adversarial patch to a given image and outputs the probabilites of all classes.
