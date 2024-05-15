@@ -1,0 +1,10 @@
+bald_eagle.jpg,22
+boa_constrictor.jpg,61
+box_turtle.jpg,37
+brown_bear.jpg,294
+cock.jpg,7
+samoyed.jpg,258
+spotted_salamander.jpg,28
+starfish.jpg,327
+tiger.jpg,292
+tiger_shark.jpg,3
