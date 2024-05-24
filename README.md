@@ -14,7 +14,9 @@ The repository is mainly composed of the following
 
 
 
-![Eagle with jelly fish patch](/adversarial_examples/eagle_to_jelly.png) ![Bear to Thimble patch](/adversarial_examples/bear_to_thimble.png) ![Samoyed to Green Mamba](/adversarial_examples/samoyed_to_mamba.png)
+![Eagle with jelly fish patch](/adversarial_examples/eagle_to_jelly.png) ![Bear to Thimble patch](/adversarial_examples/bear_to_thimble.png)
+![Samoyed to Green Mamba](/adversarial_examples/samoyed_to_mamba.png) ![Starfish to dome](/adversarial_examples/starfish_to_dome.png)
+
 **Some example patches and results for the Inception_V3 model.**
 * Eagle 4.7%, Jelly Fish 92.3%
 * Brown Bear 11.2%, Thimble 78.8%
