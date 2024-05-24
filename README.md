@@ -21,6 +21,7 @@ The repository is mainly composed of the following
 * Eagle 4.7%, Jelly Fish 92.3%
 * Brown Bear 11.2%, Thimble 78.8%
 * Samoyed 2.3%, Green Mamba 94.7%
+* Starfish 23.1%, Dome 48.4%
 
 ## Quick Start Guide
 
